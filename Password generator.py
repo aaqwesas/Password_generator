@@ -127,5 +127,5 @@ def initial():
         else:
             print("invalid input")
             continue
-        
-initial()
+if __name__ = '__main__'
+    initial()
